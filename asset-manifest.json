@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/my-app/static/css/main.e55bc021.css",
+    "main.css": "/my-app/static/css/main.7e0192e8.css",
     "main.js": "/my-app/static/js/main.36645098.js",
     "static/media/rotate-left-solid.svg": "/my-app/static/media/rotate-left-solid.29c11f19024b8c2d6240851b116b902c.svg",
     "index.html": "/my-app/index.html",
-    "main.e55bc021.css.map": "/my-app/static/css/main.e55bc021.css.map",
+    "main.7e0192e8.css.map": "/my-app/static/css/main.7e0192e8.css.map",
     "main.36645098.js.map": "/my-app/static/js/main.36645098.js.map"
   },
   "entrypoints": [
-    "static/css/main.e55bc021.css",
+    "static/css/main.7e0192e8.css",
     "static/js/main.36645098.js"
   ]
 }
